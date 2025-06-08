@@ -1,6 +1,5 @@
 # Bone-Break-Classification
 
-![image](https://github.com/user-attachments/assets/20dec65c-4c4c-4fc4-a64d-37b22b0094ab)
 ![image](https://github.com/user-attachments/assets/a5c855f0-bd9f-41ce-b736-ab32c470f1e9)
 
 
