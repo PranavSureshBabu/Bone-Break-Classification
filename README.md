@@ -22,17 +22,23 @@ The goal of this project is to classify X-ray or bone images into different cate
 
 **Implementation :**
 
-*CNN Model with Hyperparameter Tuning – A convolutional neural network is designed with adjustable parameters like filter size, kernel dimensions, dropout rate, and learning rate to optimize fracture classification accuracy.
+* CNN Model with Hyperparameter Tuning – A convolutional neural network is designed with adjustable parameters like filter size, kernel dimensions, dropout rate, and learning rate to optimize fracture classification accuracy.
+* Training for 5 Epochs – The model is trained using medical X-ray images for five epochs to ensure a balance between learning efficiency and avoiding overfitting.
+* Preprocessing & Augmentation – Images undergo resizing and normalization, enhancing generalization and robustness against variations in medical imaging.
+* Streamlit Integration for Image Upload – A user-friendly web interface allows users to upload X-ray images, which are then processed and classified in real-time.
+* Fracture Type Prediction – The trained model outputs the most likely fracture type (e.g., No Fracture, Simple Fracture, Complex Fracture) along with confidence scores for decision support.
 
-*Training for 5 Epochs – The model is trained using medical X-ray images for five epochs to ensure a balance between learning efficiency and avoiding overfitting.
+**Working Demo of Streamlit :**
 
-*Preprocessing & Augmentation – Images undergo resizing and normalization, enhancing generalization and robustness against variations in medical imaging.
+Run the following command in your terminal to run the app
+![image](https://github.com/user-attachments/assets/2156fd07-7616-496c-882e-94a6f5d7bf54)
 
-*Streamlit Integration for Image Upload – A user-friendly web interface allows users to upload X-ray images, which are then processed and classified in real-time.
+![image](https://github.com/user-attachments/assets/2a0e2858-e8b4-4d8a-bf9d-4b98d47ae6e2)
+![image](https://github.com/user-attachments/assets/6e9b13d3-de9d-4198-9f4f-bc30b022a03c)
 
 
 
-Fracture Type Prediction – The trained model outputs the most likely fracture type (e.g., No Fracture, Simple Fracture, Complex Fracture) along with confidence scores for decision support.
+
 
 
 
