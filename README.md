@@ -3,7 +3,7 @@
 ![image](https://github.com/user-attachments/assets/a5c855f0-bd9f-41ce-b736-ab32c470f1e9)
 
 
-**About the Dataset**
+**About the Dataset :**
 
 The dataset covers a range of bone fracture classes, such as avulsion fractures, comminuted fractures, fracture-dislocations, greenstick fractures, hairline fractures, impacted fractures, longitudinal fractures, oblique fractures, pathological fractures, and spiral fractures.
 
@@ -11,7 +11,7 @@ The dataset covers a range of bone fracture classes, such as avulsion fractures,
 
 The goal of this project is to classify X-ray or bone images into different categories indicating whether a bone is broken or not. This type of classification can assist in automated medical diagnosis. 
 
-**Tools and Libraries used**
+**Tools and Libraries used :**
 
 * TensorFlow/Keras
 * Matplotlib and Numpy
