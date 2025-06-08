@@ -1,4 +1,4 @@
-# Bone-Break-Classification
+# Bone-Fracture-Classification-Using-Deep-Learning
 
 ![image](https://github.com/user-attachments/assets/a5c855f0-bd9f-41ce-b736-ab32c470f1e9)
 
@@ -6,6 +6,8 @@
 **About the Dataset :**
 
 The dataset covers a range of bone fracture classes, such as avulsion fractures, comminuted fractures, fracture-dislocations, greenstick fractures, hairline fractures, impacted fractures, longitudinal fractures, oblique fractures, pathological fractures, and spiral fractures.
+
+The dataset link can be found here - https://www.kaggle.com/datasets/pkdarabi/bone-break-classification-image-dataset
 
 **Objective :**
 
@@ -27,7 +29,7 @@ The goal of this project is to classify X-ray or bone images into different cate
 *Preprocessing & Augmentation – Images undergo resizing and normalization, enhancing generalization and robustness against variations in medical imaging.
 
 *Streamlit Integration for Image Upload – A user-friendly web interface allows users to upload X-ray images, which are then processed and classified in real-time.
-![image](https://github.com/user-attachments/assets/901a59e0-5199-4f45-bcb8-6b7b9e7a4cb2)
+
 
 
 Fracture Type Prediction – The trained model outputs the most likely fracture type (e.g., No Fracture, Simple Fracture, Complex Fracture) along with confidence scores for decision support.
