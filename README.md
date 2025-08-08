@@ -65,7 +65,7 @@ The main objectives of this work are to:
 
 - Evaluated using metrics such as precision, recall, F1-score, and confusion matrix for each fracture type.
 
-##🤖 Why CNN Was Used?
+## 🤖 Why CNN Was Used?
 
 CNNs (Convolutional Neural Networks) are especially effective for image data because they:
 
