@@ -29,6 +29,8 @@ Each subfolder includes a collection of X-ray images corresponding to that speci
 
  -  Spiral Fracture
 
+Link of the dataset - https://www.kaggle.com/datasets/pkdarabi/bone-break-classification-image-dataset/data
+
 ## 🎯 OBJECTIVE
 
 The main objectives of this work are to:
